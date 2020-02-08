@@ -1,0 +1,32 @@
+STATION CODE,LOCATIONS,STATE,TEMPERATURE ºC : Min,TEMPERATURE ºC : Max,TEMPERATURE ºC : Mean,pH : Min : 6.5-8.5,pH : Max : 6.5-8.5,pH : Mean : 6.5-8.5,CONDUCTIVITY (µmhos/cm) : Min,CONDUCTIVITY (µmhos/cm) : Max,CONDUCTIVITY (µmhos/cm) : Mean,B.O.D. (mg/l) : Min : < 3 mg/l,B.O.D. (mg/l) : Max : < 3 mg/l,B.O.D. (mg/l) : Mean : < 3 mg/l,NITRATE- N+ NITRITE-N (mg/l) : Min,NITRATE- N+ NITRITE-N (mg/l) : Max,NITRATE- N+ NITRITE-N (mg/l) : Mean,FECAL COLIFORM (MPN/100ml) : Min : < 2500 MPN/100ml,FECAL COLIFORM (MPN/100ml) : Max : < 2500 MPN/100ml,FECAL COLIFORM (MPN/100ml) : Mean : < 2500 MPN/100ml,TOTAL COLIFORM (MPN/100ml) : Min : < 5000 MPN/100ml,TOTAL COLIFORM (MPN/100ml) : Max : < 5000 MPN/100ml,TOTAL COLIFORM (MPN/100ml) : Mean : < 5000 MPN/100ml
+1985,"Dug well at 5 -Star Industrial estate, Village-Kashimira Taluka- Mira-  Bhayander District-Thane ",Maharashtra,22,22,22,7.9,7.9,7.9,1385,1385,1385,5,5,5,1.7,1.7,1.7,20,20,20,40,40,40
+1986,Bore well at Village- Motapada Taluka- Dahanu District- Thane,Maharashtra,29,29,29,8.5,8.5,8.5,699,699,699,5.6,5.6,5.6,0.6,0.6,0.6,15,15,15,25,25,25
+1987,Bore well Village-Gokhiware Taluka- Vasai District- Thane ,Maharashtra,22,22,22,7.8,7.8,7.8,608,608,608,5,5,5,1,1,1,30,30,30,45,45,45
+1988,"Bore well at Gharatwadi, Village- Aliyali Taluka- Palghar District- Thane",Maharashtra,29,29,29,8.5,8.5,8.5,871,871,871,5.2,5.2,5.2,0.6,0.6,0.6,14,14,14,26,26,26
+1989,"Bore well at MWML site, Village-Karawla, Taloja Taluka- Panvel District- Raigad",Maharashtra,28,28,28,7,7,7,90,90,90,4,4,4,1.4,1.4,1.4,12,12,12,24,24,24
+1993, Dug Well,Maharashtra,28,28,28,7.4,7.4,7.4,1016,1016,1016,3,3,3,0.2,0.2,0.2,2,2,2,79,79,79
+1994,"Dug well at TPS-Durgapur Village-Durgapur , Taluka- Chandrapur, District- Chandrapur                   ",Maharashtra,26,26,26,8,8,8,943,943,943,5,5,5,100.7,100.7,100.7,NA,NA,NA,NA,NA,NA
+1999,"Bore well Near Gram Panchayat office. Village-Changera, Taluka- Gondia, District- Gondia.",Maharashtra,28,28,28,8.3,8.3,8.3,555,555,555,6,6,6,1.1,1.1,1.1,60,60,60,90,90,90
+2001,"Tube well at water treatment plant of.Achalpur M.C, near Post Office. Village-Paratwada, Taluka- Achalpur, District- Amravati",Maharashtra,25,25,25,8.6,8.6,8.6,567,567,567,6,6,6,43,43,43,30,30,30,60,60,60
+2002,"Bore well Opp. Gajanan MPCBaraj Temple at  Anjangaon road. Village-Anjangaon, Taluka- Akot, District- Akola                   ",Maharashtra,27,27,27,8.7,8.7,8.7,435,435,435,5.8,5.8,5.8,1.6,1.6,1.6,NA,NA,NA,NA,NA,NA
+2003,"Dug well at Plot No- 4, Street No. 49-C, at Nehru Bal Udyan Azad Maidan, owned by Yavatmal M.C. Village- Nehru Bal Udyan Azad Maidan, Taluka- Yavatmal, District- Yavatmal.",Maharashtra,27,27,27,8.7,8.7,8.7,435,435,435,5.8,5.8,5.8,1.6,1.6,1.6,NA,NA,NA,NA,NA,NA
+2007,"Bore well water sample at savali, Tal. Miraj, Dist Sangli.",Maharashtra,25,25,25,7.3,7.3,7.3,1956,1956,1956,2.8,2.8,2.8,1.4,1.4,1.4,NA,NA,NA,NA,NA,NA
+2008,"Dugwell Water sample at Rasulwadi Tal. Miraj, Dist. Sangli.",Maharashtra,25,25,25,7.4,7.4,7.4,2425,2425,2425,2.9,2.9,2.9,0.5,0.5,0.5,NA,NA,NA,NA,NA,NA
+2200, Bore Well,Maharashtra,29,29,29,7.8,7.8,7.8,928,928,928,4,4,4,0.1,0.1,0.1,2,2,2,94,94,94
+2201,Dug Well,Maharashtra,28,28,28,7.2,7.2,7.2,1200,1200,1200,4,4,4,0.4,0.4,0.4,2,2,2,70,70,70
+2202,"Dugwell at Ghane Kunth near Awashi, Owned by Shri. Rajendra Ambre vill Ghanekunth Tal. Khed, Dist. Ratnagiri",Maharashtra,23,23,23,7.3,7.3,7.3,168,168,168,3.3,3.3,3.3,1.4,1.4,1.4,NA,NA,NA,NA,NA,NA
+2203,"Hand Pump in the premises of Zilla Parishad Primary School. Village- Bhugaon,  Taluka- Wardha, District- Wardha.",Maharashtra,28,28,28,8,8,8,1124,1124,1124,7.6,7.6,7.6,77,77,77,23,23,23,40,40,40
+2819,"Dug well owned by Shri Deshmukh. Village- Malegaon, Taluka- Baramati, District- Pune.",Maharashtra,28,28,28,8.2,8.2,8.2,5495,5495,5495,3.2,3.2,3.2,1.3,1.3,1.3,8,8,8,550,550,550
+2820,"Dug well owned by Shri Shivaji Baban Darekar Village- Sanaswadi, Taluka- Shirur, District- Pune.",Maharashtra,25,25,25,7.7,8.1,7.9,1306,1368,1337,3.2,4.3,3.8,1.6,2.4,2,25,60,43,425,550,488
+2821,"Bore well at Bale railway station premises owned by  Shri. Digambar Joshi. Village- Dahegaon,Taluka- North Solapur, District- Solapur.",Maharashtra,28,28,28,7,7,7,433,433,433,3.1,3.1,3.1,3,3,3,25,25,25,425,425,425
+2822,"Bore well near  Chincholi. Village- Chincholi, Taluka- Mohol, District- Solapur.",Maharashtra,28,28,28,7,7,7,415,415,415,4.3,4.3,4.3,2,2,2,30,30,30,550,550,550
+2823,"Bore well at Shete Vasti, near old Tuljapur road. Village- Tuljapur naka, Taluka- Solapur,District- Solapur.",Maharashtra,28,28,28,6.9,6.9,6.9,440,440,440,3.2,3.2,3.2,2.3,2.3,2.3,20,20,20,425,425,425
+2825, Bore Well,Maharashtra,28,28,28,7.4,7.4,7.4,1090,1090,1090,5,5,5,0.2,0.2,0.2,2,2,2,79,79,79
+2826,"Dug well near Railway station, Cotton Market. Village- Wardha city, Taluka- Wardha,District- Wardha.",Maharashtra,27,27,27,8,8,8,1173,1173,1173,6,6,6,76,76,76,70,70,70,170,170,170
+2827,"Bore well Near Railway crossing at Dongri Buzurg. Village- Dongri-Buzurg, Taluka- Tumsar,District- Bandara.",Maharashtra,27,27,27,8,8,8,553,553,553,7.4,7.4,7.4,2.6,2.6,2.6,80,80,80,110,110,110
+2828,"Dug well  near Jilla Parishet Primary school, Visapur. Village- Visapur, Taluka- Ballarpur,District- Chandrapur.",Maharashtra,27,27,27,8,8,8,915,915,915,6.2,6.2,6.2,24,24,24,NA,NA,NA,NA,NA,NA
+2831,"Dugwell water sample at Sakharoli Tal .Walwa, Dist Sangli.",Maharashtra,25,25,25,7.1,7.1,7.1,2387,2387,2387,2.7,2.7,2.7,0.7,0.7,0.7,NA,NA,NA,NA,NA,NA
+2832,"Dugwell no 1 at Brahamanwadi (C/O Shri Vaidya) Vill Anjanwell, Tal. Guhagar, Dist Ratangiri.",Maharashtra,23,23,23,7.2,7.2,7.2,130,130,130,2.9,2.9,2.9,0.6,0.6,0.6,NA,NA,NA,NA,NA,NA
+2833,"Dugwell no. 1 at Grampanchayat at Arkatewadi near Masjid, Khed, Ratangiri.",Maharashtra,23,23,23,7.1,7.1,7.1,177,177,177,3.5,3.5,3.5,1.3,1.3,1.3,NA,NA,NA,NA,NA,NA
+2834,"Dugwell no 2 at Arkatewadi, Khed, Ratnagiri",Maharashtra,23,23,23,7.3,7.3,7.3,133,133,133,3.4,3.4,3.4,0.7,0.7,0.7,NA,NA,NA,NA,NA,NA
+2835,"Durgwell no. 2 owned by Group Gram Panchayat at Brahmanwadi Vill Anjanwell, Tal. Guhagar, Dist. Ratnagiri.",Maharashtra,23,23,23,7.1,7.1,7.1,175,175,175,2.8,2.8,2.8,0.5,0.5,0.5,NA,NA,NA,NA,NA,NA
